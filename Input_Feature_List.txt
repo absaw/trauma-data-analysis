@@ -1,0 +1,103 @@
+1  -  Age
+2  -  Inj Mech
+3  -  Inj Pattern
+4  -  Hemmorhage
+5  -  TBI yes/no
+6  -  SCI yes/no
+7  -  Blood Products y/n
+8  -  Blood Products Cumulative
+9  -  Max Stiffness (Pa)
+10  -  T to Half Max (s)
+11  -  Clotting Rate (Pa/s)
+12  -  tPA (pg/mL)
+13  -  D'dimer (ng/mL)
+14  -  Delta OD
+15  -  Turbidity T to Half Max (s)
+16  -  Polym Rate (OD/s)
+17  -  Lysis at One Hour (%)
+18  -  Confocal Area (%)
+19  -  Fiber length (um)
+20  -  Confocal Pore Diameter (μm)
+21  -  Fibrinogen (mg/mL)
+22  -  Lag Time (min)
+23  -  Peak Thrombin (nM)
+24  -  Time to peak (min)
+25  -  Velocity Index
+26  -  ETP (nM)
+27  -  sex
+28  -  race
+29  -  ethnicity
+30  -  htn
+31  -  ckd
+32  -  dm
+33  -  cad
+34  -  copd
+35  -  bleed_diath
+36  -  etoh
+37  -  hgb
+38  -  Lactate (mmol/L)
+39  -  utox
+40  -  utox_type___1
+41  -  utox_type___2
+42  -  utox_type___3
+43  -  utox_type___4
+44  -  utox_type___5
+45  -  utox_type___6
+46  -  utox_type___7
+47  -  utox_type___8
+48  -  Partial Thromboplastin Time[PTT] (s)
+49  -  Prothrombin Time[PT] (s)
+50  -  inr
+51  -  ddimer
+52  -  fibrinogen
+53  -  bicarb
+54  -  base
+55  -  txa
+56  -  pre_hosp_blood
+57  -  fast
+58  -  fast_loc___1
+59  -  fast_loc___2
+60  -  fast_loc___3
+61  -  fast_loc___4
+62  -  Systolic BP (mmHg)
+63  -  Diastolic BP (mmHg)
+64  -  hr
+65  -  sat
+66  -  rr
+67  -  Temperature (°C)
+68  -  Glasgow Coma Score
+69  -  Revised Trauma Score
+70  -  Injury Severity Score[ISS]
+71  -  triss
+72  -  ais
+73  -  arrest
+74  -  blood24
+75  -  cumulativ BP
+76  -  prbc
+77  -  ffp
+78  -  platelet
+79  -  cryo
+80  -  mtp
+81  -  airway
+82  -  airway_type
+83  -  chesttube
+84  -  ir
+85  -  or
+86  -  or_art
+87  -  or_ven
+88  -  plt
+89  -  tbi_sci___1
+90  -  tbi_sci___2
+91  -  Abbreviated Injury Scale Head
+92  -  ais_face
+93  -  ais_neck
+94  -  ais_chest
+95  -  ais_abd
+96  -  ais_spine
+97  -  ais_upper
+98  -  ais_lower
+99  -  ais_ext
+100  -  dvt
+101  -  pe
+102  -  stroke
+103  -  mi_new
