@@ -14,7 +14,7 @@ We performed binary classification using both clinical and biomechanical variabl
 
 Using trauma patient clinical and clot mechanics data derived in-hospital and at our research laboratory respectively, we identify 16 significant features (based on Gini index of random forest modeling, Figure 1) as potential contributors and predictors of in-hospital mortality. Features identified both confirm previously known clinical variables (e.g. PT, PTT, D-dimer) as well as offer new candidates (e.g. clot polymerization rate) that together contribute to improved prediction of mortality than current clinical severity scales (Figure 1, e.g. injury severity score ISS or abbreviated injury scale AIS_HEAD).
 
-`<img src="Plots/Top Features Predicting In-Hospital Mortality_2.svg"></img>`
+<img src="Plots_2/combined_plots_3.png"></img>
 
 ### Conclusion:
 
