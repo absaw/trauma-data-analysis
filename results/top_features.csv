@@ -1,0 +1,21 @@
+Importance,Feature,Lab ,Clinic
+22.39,D'dimer (ng/mL),1,0
+9.07,Partial Thromboplastin Time (s),0,1
+6.7,Fibrinogen (mg/mL),1,0
+6.11,Clotting Rate (Pa/s),1,0
+5.94,Max Stiffness (Pa),1,0
+5.56,Injury Severity Score,0,1
+5.19,Abbreviated Injury Scale Head,0,1
+4.4,Prothrombin Time(s),0,1
+4.07,Confocal Area (%),1,0
+3.64,Temperature (°C),0,1
+3.6,Confocal Pore Diameter (μm),1,0
+3.39,tPA (pg/mL),1,0
+3.23,Systolic BP (mmHg),0,1
+3.05,Turbidity T to Half Max (s),1,0
+3.05,Diastolic BP (mmHg),0,1
+3.03,Glasgow Coma Score,0,1
+2.83,Lactate (mmol/L),0,1
+2.09,Revised Trauma Score,0,1
+1.36,Lysis at One Hour (%),1,0
+1.3,hgb,1,0
