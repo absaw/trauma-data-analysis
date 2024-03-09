@@ -1,4 +1,4 @@
-<img src="https://zenodo.org/badge/DOI/10.5281/zenodo.10799013.svg"></img>
+<a href="https://doi.org/10.5281/zenodo.10799013"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.10799013.svg" alt="DOI"></a>
 
 # Integrative Bio-mechanical and Clinical Features Predict In-Hospital Trauma Mortality
 
